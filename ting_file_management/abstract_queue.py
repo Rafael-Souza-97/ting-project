@@ -1,5 +1,4 @@
 from abc import ABC, abstractmethod
-# PR
 
 
 class AbstractQueue(ABC):
